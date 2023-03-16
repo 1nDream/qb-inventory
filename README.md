@@ -30,6 +30,8 @@
 ![image](https://user-images.githubusercontent.com/120761212/225729532-7418f1bf-409b-4b05-8274-62583a6adc53.png)
 ![image (2)](https://user-images.githubusercontent.com/120761212/225729524-6d4aad77-e27f-49d0-97bc-63a2b886793d.png)
 ![image (1)](https://user-images.githubusercontent.com/120761212/225729527-0ed91c5a-eb94-48da-8cd6-a48d7c377d11.png)
+![image](https://user-images.githubusercontent.com/120761212/225731582-44372334-57bd-4990-8292-aee00c0901c8.png)
+
 
 ## Features
 - Item crafting
